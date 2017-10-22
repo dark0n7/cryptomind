@@ -6,3 +6,5 @@ Currently we are not publishing any source code. We are planning to publich it a
 Нou can see the sources of our smartcontracts for Seed stage (Closed October 20).
 
 See our site: http://cryptomind.global/ for more information
+
+![alt text](https://github.com/dark0n7/cryptomind/blob/master/logo.png "BURON Project Schema")
