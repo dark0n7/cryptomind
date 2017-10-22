@@ -1,4 +1,4 @@
-# cryptomind
+# Cryptomind
 Cryptomind is a blockchain platform for miners, AI developers and buisness.
 
 Currently we are not publishing any source code. We are planning to publich it after PreICO stage (November 11-31). 
